@@ -1,1 +1,1 @@
-Accounting for user expenses.
+Accounting for user expenses API.
